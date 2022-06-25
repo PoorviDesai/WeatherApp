@@ -2,8 +2,6 @@
 
 5-day weather forecast SPA built on React. Styled with Sass. Uses the [5 Day / 3 Hour Forecast](https://openweathermap.org/forecast5/) Search by City API from [OpenWeatherMap](https://openweathermap.org/forecast5/).
 
-**Demo:** [http://projects.angiesiudevworks.com/reactweather/](http://projects.angiesiudevworks.com/reactweather/)
-
 Open the console to see the props that are passed through. Example of API JSON response from OpenWeatherMap:
 ```
 {"city":{"id":1851632,"name":"Shuzenji",
